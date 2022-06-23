@@ -1,1 +1,0 @@
-alert("Name: Arthor Stephen\nheight: 100inches\nCountry: Nigeria");
